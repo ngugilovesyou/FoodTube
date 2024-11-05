@@ -1,7 +1,10 @@
 on:
-   push:
-      branches:
-      - name: main
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   print_hello:
