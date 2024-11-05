@@ -2,7 +2,10 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div>FooDtUBE</div>
+    <div>
+        <h1>FooDtUBE</h1>
+
+    </div>
   )
 }
 
