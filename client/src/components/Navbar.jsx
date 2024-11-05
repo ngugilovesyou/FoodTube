@@ -5,6 +5,12 @@ function Navbar() {
     <div>
         <h1>FooDtUBE</h1>
 
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+
     </div>
   )
 }
